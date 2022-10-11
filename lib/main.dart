@@ -16,7 +16,11 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.pink,
       ),
-      home: const HomePage(),
+      initialRoute: HomePage.routeName,
+      routes: {
+        HomePage.routeName: (context) => const HomePage(),
+        // FormPage.routeName: (context) => const Form(),
+      },
     );
   }
 }
