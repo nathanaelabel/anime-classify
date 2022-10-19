@@ -1,6 +1,6 @@
-# anime_classify
+# Anime Classify
 
-A new Flutter project.
+A Flutter application that displays a list of popular anime.
 
 ## Getting Started
 
