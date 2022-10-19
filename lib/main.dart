@@ -1,4 +1,4 @@
-import 'package:anime_classify/views/page.dart';
+import 'package:anime_classify/views/pages.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -19,7 +19,6 @@ class MyApp extends StatelessWidget {
       initialRoute: HomePage.routeName,
       routes: {
         HomePage.routeName: (context) => const HomePage(),
-        // FormPage.routeName: (context) => const Form(),
       },
     );
   }

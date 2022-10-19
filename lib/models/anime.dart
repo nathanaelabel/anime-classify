@@ -1,4 +1,4 @@
-part of 'page.dart';
+part of 'models.dart';
 
 class Anime {
   String? name;

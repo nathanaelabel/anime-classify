@@ -1,4 +1,4 @@
-part of 'page.dart';
+part of 'pages.dart';
 
 class Form extends StatefulWidget {
   const Form({Key? key}) : super(key: key);
