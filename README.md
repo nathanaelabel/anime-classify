@@ -1,16 +1,25 @@
-# Anime Classify
+# Anime Classify  
 
-A Flutter application that displays a list of popular anime.
+📱 **Flutter mobile app that showcases a curated list of popular anime.**  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🧑‍💻 Developed for  
+A **Flutter project** to explore **list rendering, API integration, and UI design** in mobile development.  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Features  
+- Display a **list of popular anime** with details.  
+- **Smooth UI & navigation** using Flutter’s modern components.  
+- Potential **API integration** for real-time anime updates (future enhancement).  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Tech Stack  
+- **Framework:** Flutter  
+- **Language:** Dart  
+
+---
+
+📌 **Note**: This project serves as a **learning experience in Flutter development** and is not actively maintained.
